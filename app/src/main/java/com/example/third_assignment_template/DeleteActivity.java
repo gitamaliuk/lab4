@@ -19,6 +19,7 @@ public class DeleteActivity extends AppCompatActivity {
     private ArrayAdapter listAdapter;
     private ArrayList<String> notesList;
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
